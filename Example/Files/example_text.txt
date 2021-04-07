@@ -1,0 +1,8 @@
+﻿Sr./a: ${ nombre },
+JOIN Tech le da la bienvenida al nuevo sistema de seguridad para edificios, con monitoreo las 24hs., adquirido por su consorcio con domicilio en ${ direccion }.
+El hall de su edificio se encuentra protegido y monitoreado remotamente por nuestra central . Ante cualquier evento que ocurra en el inmueble, un operador se comunicará con usted para corroborar que todo se encuentra en orden. Luego de informarle lo ocurrido, le requerirá una palabra clave, que, en su caso es “${ CLAVE }”. Dicha palabra clave será la misma para todos los ocupantes del departamento. POR FAVOR, comuníquele ésta clave a las personas que usted autorizo a poseer llaves.
+CORTE-
+En caso de encontrarse ante una amenaza,  cuando el operador requiera la palabra clave, usted puede brindar “${ CLAVE_PANICO }”. De ésta manera, el operador sabrá que usted se encuentra en una situación de riesgo.
+Éste mensaje, además, permite corroborar que su teléfono se encuentre correctamente almacenado en nuestra base de datos.
+Si dicha información es correcta, por favor responda este mensaje con un OK. Caso contrario, informe el error al siguiente teléfono 341 4498077.
+Muchas gracias!
